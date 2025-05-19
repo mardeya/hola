@@ -1,0 +1,23 @@
+	Min	Max
+Age	18.0	90.0
+Gender	0.0	1.0
+Cholesterol	120.0	400.0
+Heart Rate	40.0	110.0
+Diabetes	0.0	1.0
+Family History	0.0	1.0
+Smoking	0.0	1.0
+Obesity	0.0	1.0
+Alcohol Consumption	0.0	1.0
+Exercise Hours Per Week	0.0024423483189783	19.998709051535457
+Diet	0.0	2.0
+Previous Heart Problems	0.0	1.0
+Medication Use	0.0	1.0
+Stress Level	1.0	10.0
+Sedentary Hours Per Day	0.0012632057782457	11.999313410370352
+BMI	18.002336577801902	39.99721081557256
+Triglycerides	30.0	800.0
+Sleep Hours Per Day	4.0	10.0
+Country	0.0	19.0
+Heart Attack Risk	0.0	1.0
+Systolic blood pressure	90.0	180.0
+Diastolic blood pressure	60.0	110.0
